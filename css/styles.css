@@ -15,8 +15,9 @@ main {
     max-width: 1050px;
 }
 
-.gallery img{
-    width: 100%;
+img {
+    max-width: 800px;
+    margin-bottom: 20px;
 }
 
 /* start of grid boxes */
